@@ -272,7 +272,7 @@ img {
 }
 
 .project:hover .code {
-    color: #ff7f50;
+    color: #ffffff;
 }
 
 .project-image {
@@ -367,7 +367,7 @@ footer {
     justify-content: space-evenly;
     padding: 2rem;
     background: var(--main-gray);
-    border-top: 4px solid var(--main-red);
+    border-top: 4px solid var(--main-white);
 }
 
 footer > p {
